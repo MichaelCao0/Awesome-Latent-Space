@@ -5,6 +5,8 @@
     </h1>
 </div>
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![GitHub stars](https://img.shields.io/github/stars/YU-deep/Awesome-Latent-Space?style=social)](https://github.com/YU-deep/Awesome-Latent-Space/stargazers) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.txt) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
+
 This repository manually collects works in **latent space**, which will be continuously updated.
 
 
@@ -13,8 +15,12 @@ This repository manually collects works in **latent space**, which will be conti
 
 ## 🌟 Overview
 Here, we classify all the latent space based methods two categories, and sort by date in ascending order:
-- ### [Text-based](#Text-based)
-- ### [Visual-based](#Visual-based)
+- [📖News](#news)
+- [🌟 Overview](#-overview)
+- [🤝 Contact](#-contact)
+- [🔥 Methods](#-methods)
+  - [Text-based](#text-based)
+  - [Visual-based](#visual-based)
 
 
 ## 🤝 Contact
