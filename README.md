@@ -20,7 +20,7 @@ This repository manually collects works in **latent space**, which will be conti
 
 ## 🌟 Overview
 Here, we classify all the latent space based methods two categories, and sort by date in ascending order:
-- [📖News](#news)
+- [📖 News](#news)
 - [🌟 Overview](#-overview)
 - [🤝 Contributing](#-contributing)
 - [🔥 Methods](#-methods)
@@ -76,17 +76,18 @@ Additionally, if you want to have any other issue, please add this wechat group.
 
 ### Visual-based
 
-| Date      | Paper Title                                                                                                                                                                | Introduction                                          | Code                                                          |
-|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------------|
-| 2024/12   | ![CVPR'25](https://img.shields.io/badge/CVPR'25-f1b800) <br/> [Perception Tokens Enhance Visual Reasoning in Multimodal Language Models](https://arxiv.org/abs/2412.03548) | <img width="700" alt="image" src="img/aurora.png">    | [Github](https://github.com/mahtabbigverdi/Aurora-perception) |
-| 2025/06   | [Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens](https://arxiv.org/abs/2506.17218)                                                         | <img width="700" alt="image" src="img/mirage.png">    | [Github](https://github.com/UMass-Embodied-AGI/Mirage)        |
-| 2025/09   | [Latent Visual reasoning](https://arxiv.org/abs/2509.24251)                                                                                                                | <img width="700" alt="image" src="img/lvr.png">       | -                                                             |
-| 2025/10   | [Latent Chain-of-Thought for Visual Reasoning](https://arxiv.org/abs/2510.23925)                                                                                           | <img width="700" alt="image" src="img/lacot.png">     | [Github](https://github.com/heliossun/LaCoT)                  |
-| 2025/10   | [Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views](https://arxiv.org/abs/2510.18632)                                                     | <img width="700" alt="image" src="img/think.png">     | [Github](https://github.com/zhangquanchen/3DThinker)          |
-| 2025/10   | [Latent Sketchpad: Sketching Visual Thoughts to Elicit Multimodal Reasoning in MLLMs](https://arxiv.org/abs/2510.24514)                                                    | <img width="700" alt="image" src="img/sketchpad.png"> | [Github](https://github.com/hwanyu112/Latent-Sketchpad)       |
-| 2025/11   | [VisMem: Latent Vision Memory Unlocks Potential of Vision-Language Model](https://www.arxiv.org/abs/2511.11007)                                                            | <img width="700" alt="image" src="img/vismem.png">    | [Github](https://github.com/YU-deep/VisMem)                   |
-| 2025/11   | [Chain-of-Visual-Thought: Teaching VLMs to See and Think Better with Continuous Visual Tokens](https://arxiv.org/abs/2511.19418)                                           | <img width="700" alt="image" src="img/covt.png">      | [Github](https://github.com/Wakals/CoVT)                      |
-| 2025/11   | [Monet: Reasoning in Latent Visual Space Beyond Image and Language](https://arxiv.org/abs/2511.21395)                                                                      | <img width="700" alt="image" src="img/monet.png">     | [Github](https://github.com/NOVAglow646/)                     |
+| Date    | Paper Title                                                                                                                                                                | Introduction                                          | Code                                                          |
+|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------------|
+| 2024/12 | ![CVPR'25](https://img.shields.io/badge/CVPR'25-f1b800) <br/> [Perception Tokens Enhance Visual Reasoning in Multimodal Language Models](https://arxiv.org/abs/2412.03548) | <img width="700" alt="image" src="img/aurora.png">    | [Github](https://github.com/mahtabbigverdi/Aurora-perception) |
+| 2025/06 | [Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens](https://arxiv.org/abs/2506.17218)                                                         | <img width="700" alt="image" src="img/mirage.png">    | [Github](https://github.com/UMass-Embodied-AGI/Mirage)        |
+| 2025/09 | [Latent Visual reasoning](https://arxiv.org/abs/2509.24251)                                                                                                                | <img width="700" alt="image" src="img/lvr.png">       | -                                                             |
+| 2025/10 | [Latent Chain-of-Thought for Visual Reasoning](https://arxiv.org/abs/2510.23925)                                                                                           | <img width="700" alt="image" src="img/lacot.png">     | [Github](https://github.com/heliossun/LaCoT)                  |
+| 2025/10 | [Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views](https://arxiv.org/abs/2510.18632)                                                     | <img width="700" alt="image" src="img/think.png">     | [Github](https://github.com/zhangquanchen/3DThinker)          |
+| 2025/10 | [Latent Sketchpad: Sketching Visual Thoughts to Elicit Multimodal Reasoning in MLLMs](https://arxiv.org/abs/2510.24514)                                                    | <img width="700" alt="image" src="img/sketchpad.png"> | [Github](https://github.com/hwanyu112/Latent-Sketchpad)       |
+| 2025/10 | [Reasoning in the Dark: Interleaved Vision-Text Reasoning in Latent Space](https://arxiv.org/abs/2510.12603)                                                               | <img width="700" alt="image" src="img/ivt-lr.png">    | [Github](https://github.com/FYYDCC/IVT-LR)                    |
+| 2025/11 | [VisMem: Latent Vision Memory Unlocks Potential of Vision-Language Model](https://www.arxiv.org/abs/2511.11007)                                                            | <img width="700" alt="image" src="img/vismem.png">    | [Github](https://github.com/YU-deep/VisMem)                   |
+| 2025/11 | [Chain-of-Visual-Thought: Teaching VLMs to See and Think Better with Continuous Visual Tokens](https://arxiv.org/abs/2511.19418)                                           | <img width="700" alt="image" src="img/covt.png">      | [Github](https://github.com/Wakals/CoVT)                      |
+| 2025/11 | [Monet: Reasoning in Latent Visual Space Beyond Image and Language](https://arxiv.org/abs/2511.21395)                                                                      | <img width="700" alt="image" src="img/monet.png">     | [Github](https://github.com/NOVAglow646/)                     |
 
 
 
