@@ -26,6 +26,7 @@ Here, we classify all the latent space based methods two categories, and sort by
 - [🔥 Methods](#-methods)
   - [LLM-based](#llm-based)
   - [VLM-based](#vlm-based)
+  - [VLA-based](#vla-based)
   - [MAS-based](#mas-based)
 
 
@@ -104,9 +105,7 @@ Additionally, if you want to have any other issue, please add this wechat group.
 | 2024/12  | ![CVPR'25](https://img.shields.io/badge/CVPR'25-f1b800) <br/> [Perception Tokens Enhance Visual Reasoning in Multimodal Language Models](https://arxiv.org/abs/2412.03548) | <img width="700" alt="image" src="img/vlm/2412_aurora.png">    | [Github](https://github.com/mahtabbigverdi/Aurora-perception) |
 | 2025/01  | [Efficient Reasoning with Hidden Thinking](https://arxiv.org/abs/2501.19201)                                                                                               | <img width="700" alt="image" src="img/vlm/2501_heima.png">     | [Github](https://github.com/shawnricecake/Heima)              |
 | 2025/06  | [Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens](https://arxiv.org/abs/2506.17218)                                                         | <img width="700" alt="image" src="img/vlm/2506_mirage.png">    | [Github](https://github.com/UMass-Embodied-AGI/Mirage)        |
-| 2025/07  | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://arxiv.org/abs/2507.16815)                                                       | <img width="700" alt="image" src="img/vlm/2507_thinkact.png">  | [Github](https://jasper0314-huang.github.io/thinkact-vla)     |
 | 2025/08  | [Multimodal Chain of Continuous Thought for Latent-Space Reasoning in Vision-Language Models](https://arxiv.org/abs/2508.12587)                                            | <img width="700" alt="image" src="img/vlm/2508_mcout.png">     | -                                                             | 
-| 2025/09  | [Latent Action Pretraining Through World Modeling](https://arxiv.org/abs/2509.18428)                                                                                       | <img width="700" alt="image" src="img/vlm/2509_lawm.png">      | -                                                             |
 | 2025/09  | [Latent Visual reasoning](https://arxiv.org/abs/2509.24251)                                                                                                                | <img width="700" alt="image" src="img/vlm/2509_lvr.png">       | -                                                             |
 | 2025/10  | [Reasoning in the Dark: Interleaved Vision-Text Reasoning in Latent Space](https://arxiv.org/abs/2510.12603)                                                               | <img width="700" alt="image" src="img/vlm/2510_ivt_lr.png">    | [Github](https://github.com/FYYDCC/IVT-LR)                    |
 | 2025/10  | [Think with 3D: Geometric Imagination Grounded Spatial Reasoning from Limited Views](https://arxiv.org/abs/2510.18632)                                                     | <img width="700" alt="image" src="img/vlm/2510_think.png">     | [Github](https://github.com/zhangquanchen/3DThinker)          |
@@ -121,7 +120,16 @@ Additionally, if you want to have any other issue, please add this wechat group.
 | 2025/12  | [Mull-Tokens: Modality-Agnostic Latent Thinking](https://arxiv.org/abs/2512.10941)                                                                                         | <img width="700" alt="image" src="img/vlm/2512_mull.png">      | -                                                             |
 | 2025/12  | [Reasoning Within the Mind: Dynamic Multimodal Interleaving in Latent Space](https://arxiv.org/abs/2512.12623)                                                             | <img width="700" alt="image" src="img/vlm/2512_mind.png">      | [Github](https://github.com/eric-ai-lab/DMLR)                 |
 | 2025/12  | [Sketch-in-Latents: Eliciting Unified Reasoning in MLLMs](https://arxiv.org/abs/2512.16584)                                                                                | <img width="700" alt="image" src="img/vlm/2512_skila.png">     | [Github](https://github.com/TungChintao/SkiLa)                |
-| 2025/12  | [LoLA: Long Horizon Latent Action Learning for General Robot Manipulation](https://arxiv.org/abs/2512.20166v1)                                                             | <img width="700" alt="image" src="img/vlm/2512_lola.png">      | -                                                             |
+
+
+### VLA-based
+| Date     | Paper Title                                                                                                                                                                | Introduction                                                  | Code                                                      |
+|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------|
+| 2025/07  | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://arxiv.org/abs/2507.16815)                                                       | <img width="700" alt="image" src="img/vla/2507_thinkact.png"> | [Github](https://jasper0314-huang.github.io/thinkact-vla) |
+| 2025/09  | [Latent Action Pretraining Through World Modeling](https://arxiv.org/abs/2509.18428)                                                                                       | <img width="700" alt="image" src="img/vla/2509_lawm.png">     | -                                                         |
+| 2025/12  | [LoLA: Long Horizon Latent Action Learning for General Robot Manipulation](https://arxiv.org/abs/2512.20166v1)                                                             | <img width="700" alt="image" src="img/vla/2512_lola.png">     | -                                                         |
+
+
 
 ### MAS-based
 | Date     | Paper Title                                                                                                                                               | Introduction                                                     | Code                                             |
