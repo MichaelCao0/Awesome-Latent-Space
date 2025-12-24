@@ -98,7 +98,6 @@ Additionally, if you want to have any other issue, please add this wechat group.
 
 
 ### VLM-based
-
 | Date     | Paper Title                                                                                                                                                                | Introduction                                                   | Code                                                          |
 |----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------|
 | 2024/12  | ![CVPR'25](https://img.shields.io/badge/CVPR'25-f1b800) <br/> [Perception Tokens Enhance Visual Reasoning in Multimodal Language Models](https://arxiv.org/abs/2412.03548) | <img width="700" alt="image" src="img/vlm/2412_aurora.png">    | [Github](https://github.com/mahtabbigverdi/Aurora-perception) |
@@ -119,6 +118,7 @@ Additionally, if you want to have any other issue, please add this wechat group.
 | 2025/12  | [Mull-Tokens: Modality-Agnostic Latent Thinking](https://arxiv.org/abs/2512.10941)                                                                                         | <img width="700" alt="image" src="img/vlm/2512_mull.png">      | -                                                             |
 | 2025/12  | [Reasoning Within the Mind: Dynamic Multimodal Interleaving in Latent Space](https://arxiv.org/abs/2512.12623)                                                             | <img width="700" alt="image" src="img/vlm/2512_mind.png">      | [Github](https://github.com/eric-ai-lab/DMLR)                 |
 | 2025/12  | [Sketch-in-Latents: Eliciting Unified Reasoning in MLLMs](https://arxiv.org/abs/2512.16584)                                                                                | <img width="700" alt="image" src="img/vlm/2512_skiLa.png">     | [Github](https://github.com/TungChintao/SkiLa)                |
+| 2025/12  | [LoLA: Long Horizon Latent Action Learning for General Robot Manipulation](https://arxiv.org/abs/2512.20166v1)                                                             | <img width="700" alt="image" src="img/vlm/2512_lola.png">      | -                                                             |
 
 ### MAS-based
 | Date     | Paper Title                                                                                                                                               | Introduction                                                     | Code                                             |
