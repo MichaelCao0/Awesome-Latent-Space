@@ -25,10 +25,11 @@ Here, we classify all the latent space based methods two categories, and sort by
 - [🌟 Overview](#-overview)
 - [🤝 Contributing](#-contributing)
 - [🔥 Methods](#-methods)
-  - [LLM-based](#llm-based)
-  - [VLM-based](#vlm-based)
-  - [VLA-based](#vla-based)
-  - [MAS-based](#mas-based)
+  - [Large-Language-Model](#Large-Language-Model)
+  - [Vision-Language-Model](#Vision-Language-Model)
+  - [Multi-agent-System](#Multi-agent-System)
+  - [Vision-Language-Action-Model](#Vision-Language-Action-Model)
+  - [World-Model](#World-Model)
 
 
 ## 🤝 Contributing
@@ -43,8 +44,7 @@ Additionally, if you want to have any other issue, please add our wechat group.
 
 
 ## 🔥 Methods
-### LLM-based
-
+### Large-Language-Model
 | Date     | Paper Title                                                                                                                                                                                                    | Introduction                                                        | Code                                                                                       |
 |----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
 | 2024/11  | [Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding](https://arxiv.org/abs/2411.04282)                                                                           | <img width="700" alt="image" src="img/llm/2411_latro.png">          | [Github](https://github.com/SalesforceAIResearch/LaTRO)                                    |
@@ -97,7 +97,7 @@ Additionally, if you want to have any other issue, please add our wechat group.
 | 2025/12  | [Reasoning Palette: Modulating Reasoning via Latent Contextualization for Controllable Exploration for (V)LMs](https://arxiv.org/abs/2512.17206)                                                               | <img width="700" alt="image" src="img/llm/2512_repa.png">           | -                                                                                          |
 
 
-### VLM-based
+### Vision-Language-Model
 | Date     | Paper Title                                                                                                                                                                | Introduction                                                   | Code                                                          |
 |----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------|
 | 2024/12  | ![CVPR'25](https://img.shields.io/badge/CVPR'25-f1b800) <br/> [Perception Tokens Enhance Visual Reasoning in Multimodal Language Models](https://arxiv.org/abs/2412.03548) | <img width="700" alt="image" src="img/vlm/2412_aurora.png">    | [Github](https://github.com/mahtabbigverdi/Aurora-perception) |
@@ -119,18 +119,8 @@ Additionally, if you want to have any other issue, please add our wechat group.
 | 2025/12  | [Sketch-in-Latents: Eliciting Unified Reasoning in MLLMs](https://arxiv.org/abs/2512.16584)                                                                                | <img width="700" alt="image" src="img/vlm/2512_skila.png">     | [Github](https://github.com/TungChintao/SkiLa)                |
 | 2025/12  | [Latent Implicit Visual Reasoning](https://arxiv.org/abs/2512.21218)                                                                                                       | <img width="700" alt="image" src="img/vlm/2512_livr.png">      | -                                                             |
 
-### VLA-based
-| Date     | Paper Title                                                                                                          | Introduction                                                  | Code                                                      |
-|----------|----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------|
-| 2025/07  | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://arxiv.org/abs/2507.16815) | <img width="700" alt="image" src="img/vla/2507_thinkact.png"> | [Github](https://jasper0314-huang.github.io/thinkact-vla) |
-| 2025/07  | [villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models](https://arxiv.org/abs/2507.23682)       | <img width="700" alt="image" src="img/vla/2507_villax.png">   | [Github](https://github.com/microsoft/villa-x)            |
-| 2025/09  | [Latent Action Pretraining Through World Modeling](https://arxiv.org/abs/2509.18428)                                 | <img width="700" alt="image" src="img/vla/2509_lawm.png">     | -                                                         |
-| 2025/12  | [Latent Chain-of-Thought World Modeling for End-to-End Autonomous Driving](https://arxiv.org/pdf/2512.10226)         | <img width="700" alt="image" src="img/vla/2512_lc_drive.png"> | -                                                         |
-| 2025/12  | [LoLA: Long Horizon Latent Action Learning for General Robot Manipulation](https://arxiv.org/abs/2512.20166v1)       | <img width="700" alt="image" src="img/vla/2512_lola.png">     | -                                                         |
 
-
-
-### MAS-based
+### Multi-agent-System
 | Date     | Paper Title                                                                                                                                               | Introduction                                                     | Code                                             |
 |----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------|
 | 2025/10  | [Cache-to-Cache: Direct Semantic Communication Between Large Language Model](https://arxiv.org/abs/2510.03215)                                            | <img width="700" alt="image" src="img/mas/2510_c2c.png">         | [Github](https://github.com/thu-nics/C2C)        |
@@ -139,3 +129,19 @@ Additionally, if you want to have any other issue, please add our wechat group.
 | 2025/11  | [Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639)                                                                           | <img width="700" alt="image" src="img/mas/2511_latent_mas.png">  | [Github](https://github.com/Gen-Verse/LatentMAS) |
 
 
+
+
+### Vision-Language-Action-Model
+| Date     | Paper Title                                                                                                          | Introduction                                                  | Code                                                      |
+|----------|----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------|
+| 2025/07  | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://arxiv.org/abs/2507.16815) | <img width="700" alt="image" src="img/vla/2507_thinkact.png"> | [Github](https://jasper0314-huang.github.io/thinkact-vla) |
+| 2025/07  | [Villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models](https://arxiv.org/abs/2507.23682)       | <img width="700" alt="image" src="img/vla/2507_villax.png">   | [Github](https://github.com/microsoft/villa-x)            |
+| 2025/12  | [LoLA: Long Horizon Latent Action Learning for General Robot Manipulation](https://arxiv.org/abs/2512.20166v1)       | <img width="700" alt="image" src="img/vla/2512_lola.png">     | -                                                         |
+
+
+
+### World-Model
+| Date     | Paper Title                                                                                                     | Introduction                                                 | Code      |
+|----------|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|-----------|
+| 2025/09  | [Latent Action Pretraining Through World Modeling](https://arxiv.org/abs/2509.18428)                            | <img width="700" alt="image" src="img/wm/2509_lawm.png">     | -         |
+| 2025/12  | [Latent Chain-of-Thought World Modeling for End-to-End Autonomous Driving](https://arxiv.org/pdf/2512.10226)    | <img width="700" alt="image" src="img/wm/2512_lc_drive.png"> | -         |
