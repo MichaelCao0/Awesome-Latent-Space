@@ -25,11 +25,11 @@ Here, we classify all the latent space based methods two categories, and sort by
 - [🌟 Overview](#-overview)
 - [🤝 Contributing](#-contributing)
 - [🔥 Methods](#-methods)
-  - [Large-Language-Model](#Large-Language-Model)
-  - [Vision-Language-Model](#Vision-Language-Model)
-  - [Multi-Agent-System](#Multi-Agent-System)
-  - [Vision-Language-Action-Model](#Vision-Language-Action-Model)
-  - [World-Model](#World-Model)
+  - [Large-Language-Model](#large-language-model)
+  - [Vision-Language-Model](#vision-language-model)
+  - [Multi-Agent-System](#multi-agent-system)
+  - [Vision-Language-Action-Model](#vision-language-action-model)
+  - [World-Model](#world-model)
 
 
 ## 🤝 Contributing
@@ -143,5 +143,9 @@ Additionally, if you want to have any other issue, please add our wechat group.
 ### World-Model
 | Date     | Paper Title                                                                                                     | Introduction                                                 | Code      |
 |----------|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|-----------|
+| 2025/06  | [Video World Models with Long-term Spatial Memory](https://arxiv.org/pdf/2506.05284)                            | <img width="700" alt="image" src="img/wm/2506_ltsm.png">     | -         |
+| 2025/06  | [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/pdf/2506.09985) | <img width="700" alt="image" src="img/wm/2506_vjepa2.png">   | -         |
 | 2025/09  | [Latent Action Pretraining Through World Modeling](https://arxiv.org/abs/2509.18428)                            | <img width="700" alt="image" src="img/wm/2509_lawm.png">     | -         |
+| 2025/12  | [RELIC: Interactive Video World Model with Long-Horizon Memory](https://arxiv.org/abs/2512.04040)               | <img width="700" alt="image" src="img/wm/2512_relic.png">    | -         |
 | 2025/12  | [Latent Chain-of-Thought World Modeling for End-to-End Autonomous Driving](https://arxiv.org/pdf/2512.10226)    | <img width="700" alt="image" src="img/wm/2512_lc_drive.png"> | -         |
+| 2025/12  | [World Models Can Leverage Human Videos for Dexterous Manipulation](https://arxiv.org/pdf/2512.13644)           | <img width="700" alt="image" src="img/wm/2512_hvdm.png">     | -         |
